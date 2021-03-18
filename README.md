@@ -11,4 +11,4 @@ The scope of this kata is the implementation of the rules for activating and dea
 * If the price of an item is further reduced during the red pencil promotion, the promotion will not be prolonged by that reduction.
 * If the price of an item is increased during the red pencil promotion, the promotion ends immediately.
 * If the price is reduced during the red pencil promotion so that the overall reduction is more than 30% with regard to the original price, the promotion ends immediately.
-* After a* red pencil promotion has ended, additional red pencil promotions may follow. However, the start condition remains: the price must have been stable for 30 days (and these 30 days cannot intersect with a previous red pencil promotion).
+* After a red pencil promotion has ended, additional red pencil promotions may follow. However, the start condition remains: the price must have been stable for 30 days (and these 30 days cannot intersect with a previous red pencil promotion).
