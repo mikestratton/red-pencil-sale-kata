@@ -1,6 +1,6 @@
 # Red Pencil Sale Kata without TDD
 
-Adapted From: https://github.com/ardalis/kata-catalog/blob/master/katas/Red%20Pencil%20Sale.md
+Adapted From: https://github.com/ardalis/kata-catalog/blob/master/katas/Red%20Pencil%20Sale.md  
 Original Version by Stefan Roock: https://stefanroock.wordpress.com/2011/03/04/red-pencil-code-kata/
 
 Instructions
